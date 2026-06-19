@@ -49,3 +49,11 @@ git push
 git add universe.sql
 git commit -m "Add universe database dump"
 git add .
+git commit -m "Add universe database dump"
+git push
+git remote set-url origin https://github.com/Ashinthya/UNIVERSE_DATABASE.git
+git remote add origin https://github.com/Ashinthya/UNIVERSE_DATABASE.git
+git add universe.sql README.md
+git add universe.sql
+git commit -m "Add universe database dump"
+git add .
